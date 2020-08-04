@@ -35,5 +35,6 @@
     "markdown.extension.print.theme": "dark",
     "markdown.extension.tableFormatter.normalizeIndentation": true,
     "oneDarkPro.editorTheme": "onedarkPro",
-    "python.analysis.typeCheckingMode": "basic"
+    "python.analysis.typeCheckingMode": "basic",
+    "restructuredtext.languageServer.disabled": false
 }
