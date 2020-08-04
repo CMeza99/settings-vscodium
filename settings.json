@@ -4,5 +4,6 @@
     "workbench.settings.enableNaturalLanguageSearch": false,
     "update.showReleaseNotes": false,
     "workbench.settings.openDefaultSettings": true,
-    "workbench.settings.useSplitJSON": true
+    "workbench.settings.useSplitJSON": true,
+    "python.pythonPath": "/home/digitalr00ts/.pyenv/versions/3.8.1/bin/python"
 }

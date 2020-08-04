@@ -1,4 +1,6 @@
 [
 	"arnohovhannisyan.syncify",
+	"ms-python.python",
+	"ms-python.vscode-pylance",
 	"vscodevim.vim"
 ]
