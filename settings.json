@@ -21,5 +21,7 @@
     "gitlens.views.search.location": "scm",
     "gitlens.statusBar.enabled": false,
     "gitlens.mode.statusBar.enabled": false,
-    "python.pipenvPath": "~/.local/bin/pipenv"
+    "python.pipenvPath": "~/.local/bin/pipenv",
+    "sonarlint.ls.javaHome": "/home/digitalr00ts/.vscode-oss/extensions/sonarsource.sonarlint_managed-jre/jre/jdk-11.0.8+10-jre",
+    "sonarlint.disableTelemetry": true
 }
