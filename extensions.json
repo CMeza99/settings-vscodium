@@ -1,6 +1,8 @@
 [
 	"arnohovhannisyan.syncify",
 	"eamodio.gitlens",
+	"GitHub.vscode-codeql",
+	"hbenl.vscode-test-explorer",
 	"ms-python.python",
 	"ms-python.vscode-pylance",
 	"ryanluker.vscode-coverage-gutters",
