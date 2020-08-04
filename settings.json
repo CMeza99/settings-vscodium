@@ -31,5 +31,6 @@
         "--cov-report=xml:cov.xml"
     ],
     "githubPullRequests.telemetry.enabled": false,
-    "gitlens.advanced.telemetry.enabled": false
+    "gitlens.advanced.telemetry.enabled": false,
+    "markdown.extension.print.theme": "dark"
 }
