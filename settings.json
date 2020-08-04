@@ -2,5 +2,6 @@
     "workbench.startupEditor": "newUntitledFile",
     "extensions.showRecommendationsOnlyOnDemand": true,
     "workbench.settings.enableNaturalLanguageSearch": false,
-    "update.showReleaseNotes": false
+    "update.showReleaseNotes": false,
+    "workbench.settings.openDefaultSettings": true
 }
