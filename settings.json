@@ -1,5 +1,4 @@
 {
-    "workbench.startupEditor": "newUntitledFile",
     "extensions.showRecommendationsOnlyOnDemand": true,
     "workbench.settings.enableNaturalLanguageSearch": false,
     "update.showReleaseNotes": false,
@@ -24,5 +23,6 @@
     "python.pipenvPath": "~/.local/bin/pipenv",
     "sonarlint.disableTelemetry": true,
     "git.autofetch": true,
-    "sonarlint.ls.javaHome": "/usr/lib/jvm/jre-openjdk"
+    "sonarlint.ls.javaHome": "/usr/lib/jvm/jre-openjdk",
+    "coverage-gutters.manualCoverageFilePaths": []
 }
