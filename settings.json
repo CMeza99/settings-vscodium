@@ -13,6 +13,6 @@
     "python.pythonPath": "python3",
     "editor.formatOnSave": true,
     "files.autoSave": "afterDelay",
-    "python.pipenvPath": "/home/digitalr00ts/.local/bin/pipenv",
+    "python.pipenvPath": "${HOME}/.local/bin/pipenv",
     "python.formatting.blackPath": "${HOME}/.local/bin/black"
 }
