@@ -26,5 +26,8 @@
     "sonarlint.ls.javaHome": "/usr/lib/jvm/jre-openjdk",
     "coverage-gutters.manualCoverageFilePaths": [],
     "coverage-gutters.showLineCoverage": true,
-    "coverage-gutters.showRulerCoverage": true
+    "coverage-gutters.showRulerCoverage": true,
+    "python.testing.pytestArgs": [
+        "--cov-report xml:cov.xml"
+    ]
 }
