@@ -1,5 +1,6 @@
 [
 	"arnohovhannisyan.syncify",
+	"eamodio.gitlens",
 	"ms-python.python",
 	"ms-python.vscode-pylance",
 	"vscode-icons-team.vscode-icons",
