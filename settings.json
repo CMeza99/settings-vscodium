@@ -9,5 +9,5 @@
     "python.formatting.provider": "black",
     "python.linting.pylintUseMinimalCheckers": false,
     "python.testing.pytestEnabled": true,
-    "workbench.iconTheme": "ayu"
+    "workbench.iconTheme": "vscode-icons"
 }
