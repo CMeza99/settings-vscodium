@@ -24,5 +24,7 @@
     "sonarlint.disableTelemetry": true,
     "git.autofetch": true,
     "sonarlint.ls.javaHome": "/usr/lib/jvm/jre-openjdk",
-    "coverage-gutters.manualCoverageFilePaths": []
+    "coverage-gutters.manualCoverageFilePaths": [],
+    "coverage-gutters.showLineCoverage": true,
+    "coverage-gutters.showRulerCoverage": true
 }
