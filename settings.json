@@ -8,6 +8,5 @@
     "python.pythonPath": "/home/digitalr00ts/.pyenv/versions/3.8.1/bin/python",
     "python.formatting.provider": "black",
     "python.linting.pylintUseMinimalCheckers": false,
-    "python.testing.pytestEnabled": true,
-    "workbench.iconTheme": "vscode-icons"
+    "python.testing.pytestEnabled": true
 }

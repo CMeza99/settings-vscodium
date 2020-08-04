@@ -3,5 +3,6 @@
 	"ms-python.python",
 	"ms-python.vscode-pylance",
 	"vscode-icons-team.vscode-icons",
-	"vscodevim.vim"
+	"vscodevim.vim",
+	"zhuangtongfa.material-theme"
 ]
