@@ -13,5 +13,10 @@
     "editor.formatOnSave": true,
     "files.autoSave": "afterDelay",
     "python.formatting.blackPath": "~/.local/bin/black",
-    "gitlens.codeLens.enabled": false
+    "gitlens.codeLens.enabled": false,
+    "gitlens.views.repositories.location": "scm",
+    "gitlens.views.fileHistory.location": "scm",
+    "gitlens.views.lineHistory.location": "scm",
+    "gitlens.views.compare.location": "scm",
+    "gitlens.views.search.location": "scm"
 }
