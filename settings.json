@@ -1,3 +1,6 @@
 {
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
+    "extensions.showRecommendationsOnlyOnDemand": true,
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "update.showReleaseNotes": false
 }
