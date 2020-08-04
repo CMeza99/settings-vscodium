@@ -19,5 +19,7 @@
     "gitlens.views.lineHistory.location": "scm",
     "gitlens.views.compare.location": "scm",
     "gitlens.views.search.location": "scm",
-    "gitlens.statusBar.enabled": false
+    "gitlens.statusBar.enabled": false,
+    "gitlens.mode.statusBar.enabled": false,
+    "python.pipenvPath": "~/.local/bin/pipenv"
 }
