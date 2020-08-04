@@ -5,7 +5,7 @@
     "update.showReleaseNotes": false,
     "workbench.settings.openDefaultSettings": true,
     "workbench.settings.useSplitJSON": true,
-    "python.formatting.provider": "~/.local/bin/black",
+    "python.formatting.provider": "black",
     "python.linting.pylintUseMinimalCheckers": false,
     "python.testing.pytestEnabled": true,
     "workbench.iconTheme": "vscode-icons",
