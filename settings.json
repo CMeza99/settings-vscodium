@@ -29,5 +29,7 @@
     "coverage-gutters.showRulerCoverage": true,
     "python.testing.pytestArgs": [
         "--cov-report=xml:cov.xml"
-    ]
+    ],
+    "githubPullRequests.telemetry.enabled": false,
+    "gitlens.advanced.telemetry.enabled": false
 }
