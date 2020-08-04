@@ -14,5 +14,5 @@
     "editor.formatOnSave": true,
     "files.autoSave": "afterDelay",
     "python.pipenvPath": "~/.local/bin/pipenv",
-    "python.formatting.blackPath": "${HOME}/.local/bin/black"
+    "python.formatting.blackPath": "~/.local/bin/black"
 }
