@@ -13,6 +13,5 @@
     "python.pythonPath": "python3",
     "editor.formatOnSave": true,
     "files.autoSave": "afterDelay",
-    "python.pipenvPath": "~/.local/bin/pipenv",
     "python.formatting.blackPath": "~/.local/bin/black"
 }
