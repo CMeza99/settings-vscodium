@@ -36,5 +36,16 @@
     "markdown.extension.tableFormatter.normalizeIndentation": true,
     "oneDarkPro.editorTheme": "onedarkPro",
     "python.analysis.typeCheckingMode": "basic",
-    "restructuredtext.languageServer.disabled": false
+    "restructuredtext.languageServer.disabled": false,
+    "restructuredtext.experimental": true,
+    "restructuredtext.languageServer.supportedPlatforms": [
+        "Ubuntu Linux",
+        "Fedora",
+        "Debian",
+        "Linux Mint",
+        "SUSE Linux",
+        "Alpine Linux",
+        "RHEL",
+        "Centos"
+    ]
 }
