@@ -16,5 +16,6 @@
     "python.formatting.blackPath": "/home/digitalr00ts/.local/bin/black",
     "[python]": {
         "editor.defaultFormatter": "ms-python.python"
-    }
+    },
+    "python.pipenvPath": "/home/digitalr00ts/.local/bin/pipenv"
 }
