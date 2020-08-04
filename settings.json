@@ -13,5 +13,5 @@
     "python.pythonPath": "python3",
     "editor.formatOnSave": true,
     "files.autoSave": "afterDelay",
-    "python.formatting.blackPath": "~/.local/bin/black"
+    "python.formatting.blackPath": "/home/digitalr00ts/.local/bin/black"
 }
