@@ -1,0 +1,30 @@
+{
+	"syncer": "repo",
+	"repo": {
+		"url": "https://github.com/CMeza99/settings-vscodium.git",
+		"profiles": [
+			{
+				"branch": "master",
+				"name": "main"
+			}
+		],
+		"currentProfile": "main"
+	},
+	"file": {
+		"path": ""
+	},
+	"ignoredItems": [
+		"**/workspaceStorage",
+		"**/globalStorage/state.vscdb*",
+		"**/globalStorage/arnohovhannisyan.syncify/repo",
+		"**/globalStorage/arnohovhannisyan.syncify/settings.json",
+		"**/globalStorage/vscodevim.vim",
+		"**/.git"
+	],
+	"autoUploadDelay": 20,
+	"watchSettings": true,
+	"syncOnStartup": false,
+	"hostname": "",
+	"forceDownload": false,
+	"forceUpload": false
+}
