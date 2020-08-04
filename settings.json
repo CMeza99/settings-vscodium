@@ -10,5 +10,6 @@
     "python.testing.pytestEnabled": true,
     "workbench.iconTheme": "vscode-icons",
     "workbench.colorTheme": "One Dark Pro",
-    "python.pythonPath": "python3"
+    "python.pythonPath": "python3",
+    "editor.formatOnSave": true
 }
