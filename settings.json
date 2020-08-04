@@ -5,10 +5,10 @@
     "update.showReleaseNotes": false,
     "workbench.settings.openDefaultSettings": true,
     "workbench.settings.useSplitJSON": true,
-    "python.pythonPath": "/home/digitalr00ts/.pyenv/versions/3.8.1/bin/python",
     "python.formatting.provider": "black",
     "python.linting.pylintUseMinimalCheckers": false,
     "python.testing.pytestEnabled": true,
     "workbench.iconTheme": "vscode-icons",
-    "workbench.colorTheme": "One Dark Pro"
+    "workbench.colorTheme": "One Dark Pro",
+    "python.pythonPath": "python3"
 }
