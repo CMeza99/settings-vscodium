@@ -28,6 +28,6 @@
     "coverage-gutters.showLineCoverage": true,
     "coverage-gutters.showRulerCoverage": true,
     "python.testing.pytestArgs": [
-        "--cov-report xml:cov.xml"
+        "cov-report=xml:cov.xml"
     ]
 }
