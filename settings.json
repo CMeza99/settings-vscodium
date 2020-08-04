@@ -32,5 +32,8 @@
     ],
     "githubPullRequests.telemetry.enabled": false,
     "gitlens.advanced.telemetry.enabled": false,
-    "markdown.extension.print.theme": "dark"
+    "markdown.extension.print.theme": "dark",
+    "markdown.extension.tableFormatter.normalizeIndentation": true,
+    "oneDarkPro.editorTheme": "onedarkPro",
+    "python.analysis.typeCheckingMode": "basic"
 }
