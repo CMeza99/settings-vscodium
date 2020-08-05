@@ -7,6 +7,7 @@
 	"ms-python.python",
 	"ms-python.vscode-pylance",
 	"ryanluker.vscode-coverage-gutters",
+	"samuelcolvin.jinjahtml",
 	"SonarSource.sonarlint-vscode",
 	"vscode-icons-team.vscode-icons",
 	"vscodevim.vim",
