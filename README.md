@@ -1,6 +1,6 @@
 # VSCodium Settings
 Configuration for [VSCodium](https://github.com/VSCodium/vscodium), 
-synced with [Syncify](https://github.com/arnohovhannisyan/vscode-syncify)
+synced with [Syncify](https://github.com/arnohovhannisyan/vscode-syncify).
 
 # Install
 ## Reset Settings
