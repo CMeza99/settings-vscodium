@@ -44,3 +44,9 @@ codium --install-extension arnohovhannisyan.syncify
 ```
 ### Configure
 see `globalStorage/arnohovhannisyan.syncify/settings-example.json`
+
+
+# Sort Settings
+```sh
+(cd ${HOME}/.config/VSCodium/User && jq -MS . settings.json > settings.json.tmp && mv settings.json{.tmp,})
+```
