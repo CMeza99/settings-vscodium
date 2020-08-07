@@ -2,7 +2,6 @@
     "coverage-gutters.coverageReportFileName": "htmlcov/**/index.html",
     "coverage-gutters.showLineCoverage": true,
     "coverage-gutters.showRulerCoverage": true,
-    "editor.formatOnSave": true,
     "extensions.showRecommendationsOnlyOnDemand": true,
     "files.autoSave": "onFocusChange",
     "git.autofetch": true,
