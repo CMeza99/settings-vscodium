@@ -6,6 +6,7 @@
 	"lextudio.restructuredtext",
 	"ms-python.python",
 	"ms-python.vscode-pylance",
+	"njpwerner.autodocstring",
 	"ryanluker.vscode-coverage-gutters",
 	"samuelcolvin.jinjahtml",
 	"SonarSource.sonarlint-vscode",
