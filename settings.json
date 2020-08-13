@@ -40,6 +40,14 @@
     "workbench.settings.openDefaultSettings": true,
     "workbench.settings.useSplitJSON": true,
     "files.watcherExclude": {
-        "**/.venv/**": true
+        "**/__pycache__": true,
+        "**/.cache": true,
+        "**/.eggs": true,
+        "**/.ipynb_checkpoints": true,
+        "**/.mypy_cache": true,
+        "**/.pytest_cache": true,
+        "**/*.egg-info": true,
+        "**/*.pyc": true,
+        "**/*.venv*/**": true
     }
 }
