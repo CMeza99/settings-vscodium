@@ -32,11 +32,14 @@
     "terminal.integrated.experimentalUseTitleEvent": true,
     "testExplorer.addToEditorContextMenu": true,
     "update.showReleaseNotes": false,
-    "window.zoomLevel": -1,
+    "window.zoomLevel": -2,
     "workbench.colorTheme": "One Dark Pro",
     "workbench.editor.showTabs": false,
     "workbench.iconTheme": "vscode-icons",
     "workbench.settings.enableNaturalLanguageSearch": false,
     "workbench.settings.openDefaultSettings": true,
-    "workbench.settings.useSplitJSON": true
+    "workbench.settings.useSplitJSON": true,
+    "files.watcherExclude": {
+        "**/.venv": true
+    }
 }
