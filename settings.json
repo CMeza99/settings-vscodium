@@ -40,6 +40,6 @@
     "workbench.settings.openDefaultSettings": true,
     "workbench.settings.useSplitJSON": true,
     "files.watcherExclude": {
-        "**/.venv": true
+        "**/.venv*": true
     }
 }
