@@ -53,5 +53,5 @@
     "workbench.enableExperiments": false,
     "files.simpleDialog.enable": true,
     "files.trimTrailingWhitespace": true,
-    "explorer.sortOrder": "type"
+    "search.useGlobalIgnoreFiles": true
 }
