@@ -52,5 +52,6 @@
     },
     "workbench.enableExperiments": false,
     "files.simpleDialog.enable": true,
-    "files.trimTrailingWhitespace": true
+    "files.trimTrailingWhitespace": true,
+    "explorer.sortOrder": "type"
 }
