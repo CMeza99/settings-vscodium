@@ -50,5 +50,7 @@
         "**/*.pyc": true,
         "**/*.venv*/**": true
     },
-    "workbench.enableExperiments": false
+    "workbench.enableExperiments": false,
+    "files.simpleDialog.enable": true,
+    "files.trimTrailingWhitespace": true
 }
