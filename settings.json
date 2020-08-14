@@ -49,5 +49,6 @@
         "**/*.egg-info": true,
         "**/*.pyc": true,
         "**/*.venv*/**": true
-    }
+    },
+    "workbench.enableExperiments": false
 }
