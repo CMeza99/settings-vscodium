@@ -54,5 +54,6 @@
     "files.simpleDialog.enable": true,
     "files.trimTrailingWhitespace": true,
     "search.useGlobalIgnoreFiles": true,
-    "git-graph.openDiffTabLocation": "Beside"
+    "git-graph.openDiffTabLocation": "Beside",
+    "git-graph.openToTheRepoOfTheActiveTextEditorDocument": true
 }
