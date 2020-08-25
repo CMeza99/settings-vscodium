@@ -54,4 +54,5 @@
     "files.simpleDialog.enable": true,
     "files.trimTrailingWhitespace": true,
     "search.useGlobalIgnoreFiles": true,
+    "vim.useSystemClipboard": true,
 }
