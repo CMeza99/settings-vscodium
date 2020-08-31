@@ -5,7 +5,6 @@
     "extensions.showRecommendationsOnlyOnDemand": true,
     "files.autoSave": "onFocusChange",
     "git.autofetch": true,
-    "githubPullRequests.telemetry.enabled": false,
     "gitlens.advanced.telemetry.enabled": false,
     "gitlens.codeLens.enabled": false,
     "gitlens.mode.statusBar.enabled": false,
@@ -56,4 +55,5 @@
     "search.useGlobalIgnoreFiles": true,
     "vim.useSystemClipboard": true,
     "github-actions.org-features": true,
+    "githubPullRequests.telemetry.enabled": false,
 }
