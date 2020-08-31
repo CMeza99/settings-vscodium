@@ -56,4 +56,5 @@
     "vim.useSystemClipboard": true,
     "github-actions.org-features": true,
     "githubPullRequests.telemetry.enabled": false,
+    "github-actions.preview-features": true,
 }
