@@ -1,5 +1,6 @@
 [
 	"arnohovhannisyan.syncify",
+	"cschleiden.vscode-github-actions",
 	"eamodio.gitlens",
 	"GitHub.vscode-pull-request-github",
 	"hbenl.vscode-test-explorer",
