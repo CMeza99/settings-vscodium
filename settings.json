@@ -55,4 +55,5 @@
     "files.trimTrailingWhitespace": true,
     "search.useGlobalIgnoreFiles": true,
     "vim.useSystemClipboard": true,
+    "github-actions.org-features": true,
 }
