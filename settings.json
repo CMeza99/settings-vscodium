@@ -58,4 +58,9 @@
     "githubPullRequests.telemetry.enabled": false,
     "github-actions.preview-features": true,
     "githubPullRequests.showInSCM": true,
+    "git.enableCommitSigning": true,
+    "liveshare.featureSet": "insiders",
+    "githubPullRequests.hosts": [
+
+    ],
 }
