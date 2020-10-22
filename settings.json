@@ -63,4 +63,7 @@
     "githubPullRequests.hosts": [
 
     ],
+    "gitlens.views.repositories.branches.layout": "list",
+    "gitlens.views.repositories.files.layout": "list",
+    "github.gitAuthentication": false,
 }

@@ -1,10 +1,12 @@
 [
 	"arnohovhannisyan.syncify",
 	"eamodio.gitlens",
+	"EditorConfig.EditorConfig",
 	"GitHub.vscode-pull-request-github",
 	"hbenl.vscode-test-explorer",
 	"lextudio.restructuredtext",
 	"mhutchie.git-graph",
+	"ms-azuretools.vscode-docker",
 	"ms-python.python",
 	"ms-python.vscode-pylance",
 	"ms-vsliveshare.vsliveshare",
