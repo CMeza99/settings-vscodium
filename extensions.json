@@ -1,5 +1,6 @@
 [
 	"arnohovhannisyan.syncify",
+	"daiyy.quick-html-previewer",
 	"eamodio.gitlens",
 	"EditorConfig.EditorConfig",
 	"GitHub.vscode-pull-request-github",
@@ -9,6 +10,7 @@
 	"ms-azuretools.vscode-docker",
 	"ms-python.python",
 	"ms-python.vscode-pylance",
+	"ms-toolsai.jupyter",
 	"ms-vsliveshare.vsliveshare",
 	"njpwerner.autodocstring",
 	"ryanluker.vscode-coverage-gutters",
