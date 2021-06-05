@@ -11,6 +11,7 @@
 	"ms-python.python",
 	"ms-python.vscode-pylance",
 	"ms-toolsai.jupyter",
+	"ms-vscode.test-adapter-converter",
 	"ms-vsliveshare.vsliveshare",
 	"njpwerner.autodocstring",
 	"ryanluker.vscode-coverage-gutters",
